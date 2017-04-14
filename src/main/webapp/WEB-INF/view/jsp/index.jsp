@@ -11,6 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-   <h1>Hello!1</h1>
+   <h1>Hello! ${time}</h1>
+    <a href="/models" >Show models</a>
 </body>
 </html>
